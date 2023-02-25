@@ -1,0 +1,11 @@
+{
+    "appium_server": "http://localhost:4723/wd/hub",
+    "capabilities": {
+        "platformName": "Android",
+        "platformVersion": "11",
+        "deviceName": "Android Emulator",
+        "automationName": "UiAutomator2",
+        "appPackage": "io.novafoundation.nova.github",
+        "app": "https://github.com/nova-wallet/nova-wallet-android-releases/releases/download/v5.1.0/nova-wallet-android-v5.1.0-github.apk"
+    }
+}
